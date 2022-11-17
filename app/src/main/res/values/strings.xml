@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_phone">Add Phone</string>
+    <string name="phones">Phones</string>
+    <string name="phone_features">Phone features</string>
+    <string name="save">Save</string>
+</resources>
