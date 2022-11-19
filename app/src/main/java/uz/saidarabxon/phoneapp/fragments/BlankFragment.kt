@@ -12,7 +12,6 @@ import uz.saidarabxon.phoneapp.models.Phone
 class BlankFragment : Fragment() {
 
     private lateinit var binding: FragmentBlankBinding
-    private lateinit var list:ArrayList<Phone>
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
